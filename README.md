@@ -27,7 +27,6 @@ Acknowledgments
 ## Screenshot
 
 ![recipe-page-image-on-desktop](./assets/images/desktop-screenshot.jpg)
-![recipe-page-image-on-mobile](./assets/images/mobile-screenshot.jpg)
 
 ## Links
 
